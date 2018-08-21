@@ -1,6 +1,6 @@
-## Neighborhood Map Project Overview
+## Neighborhood Map Project
 
-The Udacity Neighborhood Map project is the final Front-end Web Development Nanodegree project. The task was to create a Neighborhood Map from scratch using React. For this purpose, this project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+The Udacity Neighborhood Map project is the final project for the Front-end Web Development Nanodegree. The task was to create a Neighborhood Map from scratch using React. For this purpose, this project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 The app allows users to discover some of the popular locations in Edinburgh, Scotland.  Users can interact with both the listed locations and map markers, and can search by entering queries. 
 
